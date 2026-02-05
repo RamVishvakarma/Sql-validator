@@ -44,7 +44,7 @@ The validator focuses on **syntax and structural correctness**, including:
 - Basic expression and operator validation
 - Detection of malformed SQL constructs
 
-> ⚠️ This tool **does not execute SQL** and does not validate data against a database schema.
+
 
 ---
 
